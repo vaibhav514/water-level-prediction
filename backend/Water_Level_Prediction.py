@@ -122,3 +122,4 @@ plt.legend()
 plt.show()
 
 model.save('model.h5')
+df.head()
